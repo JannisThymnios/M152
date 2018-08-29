@@ -1,0 +1,12 @@
+mat-card
+{
+  margin-top: 80px !important;
+  width: 75%;
+  max-width: 300px;
+  margin: auto;
+}
+.container
+{
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
